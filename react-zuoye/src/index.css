@@ -1,0 +1,19 @@
+.input{
+  border: 2px solid green;
+  width: 200px;
+  height: 25px;
+}
+ul li{
+  list-style: none;
+  font-size: 10px;
+}
+.button{
+  width: 100px;
+  height: 50px;
+  margin-left: 100px;
+  border: none;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
